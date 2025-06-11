@@ -12,17 +12,18 @@ It also embeds advanced security functions, such as PUF, secure boot, secure key
 
 Microchip provides an optimized power management solution for the SAMA7D65. The MCP16502 has been fully tested and optimized to provide the best power vs. performance for the SAMA7D65.
 
-## Parts already released to production (RTP)
-The following parts are already released to production. For more information about these parts, please visit the respective product pages on Microchip.com.
-* SoC
-  * [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65): Released to Production (RTP)
-* SiP
-  * [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G): Released to Production (RTP)
+## MPUs already released to production (RTP)
+The following MPUs are already released to production. For more information about these parts, please visit the respective product pages on Microchip.com.
+* SoC: [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65)
+* SiP: [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G)
   
-## Parts in Early Access Phase
-The following parts are available for Early Access customers, and are not yet released to production. More information about these parts can be found through the links below
+## MPUs in Early Access Phase (EA)
+The following MPUs are available for Early Access customers, and are not yet released to production. More information about these parts can be found through the links below
 ### SAMA7D65D5M - SiP 512Mbit Specific Collaterals
 * Documentation
   * [SAMA7D65 SiP Datasheet](512Mb) including the 512Mb SiP
   * [SAMA7D65 Errata](512Mb) including the 512Mb SiP
 * Find the other available collaterals (IBIS, BSDL, Application notes) on the Microchip [SAMA7D65D2G product page](https://www.microchip.com/en-us/product/SAMA7D65D2G)
+
+### SAMA7D65D1G - SiP 1Gbit Specific Collaterals
+* All collaterals for this MPU (Datasheet, Errata, IBIS, BSDL, Application notes) can be found on the Microchip [SAMA7D65D2G product page](https://www.microchip.com/en-us/product/SAMA7D65D2G)
