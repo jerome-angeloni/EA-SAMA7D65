@@ -15,15 +15,15 @@ Microchip provides an optimized power management solution for the SAMA7D65. The 
 ## MPUs already released to production (RTP)
 The following MPUs are already released to production. For more information about these parts, please visit the respective product pages on Microchip.com.
 * SoC: [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65)
-* SiP: [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G)
+* SiP: 
+  * [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G)
+  * [SAMA7D65D1G](https://www.microchip.com/en-us/product/SAMA7D65D1G)
   
 ## MPUs in Early Access Phase (EA)
 The following MPUs are available for Early Access customers, and are not yet released to production. More information about these parts can be found through the links below
 ### SAMA7D65D5M - SiP 512Mbit Specific Collaterals
 * Documentation
   * [SAMA7D65 SiP Datasheet](512Mb) including the 512Mb SiP
-  * [SAMA7D65 Errata](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ProductDocuments/Errata/SAMA7D6-Series-Silicon-Errata-and-Data-Sheet-Clarifications-DS80001131.pdf) including the 512Mb SiP
+  * [SAMA7D65 Errata](512) including the 512Mb SiP
+  * [SAM-BA add-on](512Mb) adding the support for the 512Mb SiP
 * Find the other available collaterals (IBIS, BSDL, Application notes) on the Microchip [SAMA7D65D2G product page](https://www.microchip.com/en-us/product/SAMA7D65D2G)
-
-### SAMA7D65D1G - SiP 1Gbit Specific Collaterals
-* All collaterals for this MPU (Datasheet, Errata, IBIS, BSDL, Application notes) can be found on the Microchip [SAMA7D65D2G product page](https://www.microchip.com/en-us/product/SAMA7D65D2G)
