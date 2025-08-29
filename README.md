@@ -21,7 +21,7 @@ The following MPUs are already released to production. For more information abou
   
 ## MPUs in Early Access Phase (EA)
 The following MPUs are available for Early Access customers, and are not yet released to production. More information about these parts can be found through the links below
-### SAMA7D65D5M - SiP 512Mbit Specific Collaterals
+### SAMA7D65D5M and SAMA7D65D4G - Specific Collaterals
 * Documentation
   * [SAMA7D65 SiP Datasheet](SAMA7D6%20Series%20Silicon%20Errata%20and%20Data%20Sheet%20-%2080001131G.pdf) including the 512Mb and 4Gb SiPs
   * [SAMA7D65 Errata](SAMA7D6%20Series%20SiP%20Data%20Sheet%20-%2060001853D.pdf) including the 512Mb and 4Gb SiPs
