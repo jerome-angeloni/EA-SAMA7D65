@@ -23,7 +23,8 @@ The following MPUs are already released to production. For more information abou
 The following MPUs are available for Early Access customers, and are not yet released to production. More information about these parts can be found through the links below
 ### SAMA7D65D5M - SiP 512Mbit Specific Collaterals
 * Documentation
-  * [SAMA7D65 SiP Datasheet](512Mb) including the 512Mb SiP
-  * [SAMA7D65 Errata](512Mb) including the 512Mb SiP
-  * [SAM-BA add-on](512Mb) adding the support for the 512Mb SiP
+  * [SAMA7D65 SiP Datasheet](SAMA7D6%20Series%20Silicon%20Errata%20and%20Data%20Sheet%20-%2080001131G.pdf) including the 512Mb and 4Gb SiPs
+  * [SAMA7D65 Errata](SAMA7D6%20Series%20SiP%20Data%20Sheet%20-%2060001853D.pdf) including the 512Mb and 4Gb SiPs
+  * [SiP 512Mb and 4Gb SAM-BA add-on](sam-ba_3.9.1_sama7d65d5m-d4g_addon.zip) adding the support for the 512Mb and 4Gb SiPs
+  
 * Find the other available collaterals (IBIS, BSDL, Application notes) on the Microchip [SAMA7D65D2G product page](https://www.microchip.com/en-us/product/SAMA7D65D2G)
